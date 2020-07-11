@@ -7,7 +7,7 @@ Analyses the output from windapsearch and extracts/converts useful information f
 python3.8 windapformatter.py -r allinfo -f
 
 ```
-usage: wind-formatter.py [-h] [-f] [-spn] [-pnr] [-pne] [-prf] [-tfd] [-admin] [-r READ]
+usage: windapformatter.py [-h] [-f] [-spn] [-pnr] [-pne] [-prf] [-tfd] [-admin] [-r READ]
 
 Extracts windapsearch output into a pretty format
 
