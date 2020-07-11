@@ -1,7 +1,7 @@
 # windapformatter
 Credits to https://github.com/ropnop/windapsearch/
 
-Analyses the output from windapsearch and extracts/converts useful information during pentest/redteams assessments
+Analyses the output from windapsearch and extracts/converts useful information for pentest/redteams assessments
 
 ## Example Usage
 python3.8 windapformatter.py -r allinfo -f
